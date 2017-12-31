@@ -1,0 +1,6 @@
+D:\Workspace\TThack\Wechat-TiaoYiTiao\PictureProcess\PictureProcess\bin\Release\PictureProcess.exe.config
+D:\Workspace\TThack\Wechat-TiaoYiTiao\PictureProcess\PictureProcess\bin\Release\PictureProcess.exe
+D:\Workspace\TThack\Wechat-TiaoYiTiao\PictureProcess\PictureProcess\bin\Release\PictureProcess.pdb
+D:\Workspace\TThack\Wechat-TiaoYiTiao\PictureProcess\PictureProcess\obj\Release\PictureProcess.csproj.CoreCompileInputs.cache
+D:\Workspace\TThack\Wechat-TiaoYiTiao\PictureProcess\PictureProcess\obj\Release\PictureProcess.exe
+D:\Workspace\TThack\Wechat-TiaoYiTiao\PictureProcess\PictureProcess\obj\Release\PictureProcess.pdb

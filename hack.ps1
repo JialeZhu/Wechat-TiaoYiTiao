@@ -1,5 +1,5 @@
 ﻿# Initialize
-$workpath = "D:\Workspace\TThack"
+$workpath = Split-Path -Parent $MyInvocation.MyCommand.Definition
 cd $workpath
 
 do {
@@ -11,7 +11,7 @@ do {
     copy screenshot.png screenshot-1.png
     adb pull /sdcard/screenshot.png $workpath;
 
-    .\PictureProcess\PictureProcess\obj\Debug\PictureProcess.exe .\screenshot.png
+    .\PictureProcess\PictureProcess\obj\Release\PictureProcess.exe .\screenshot.png
     # swipe
     adb shell input swipe 500 1700 500 1700 $LASTEXITCODE
     #adb shell input swipe 0 0 0 0 $LASTEXITCODE
