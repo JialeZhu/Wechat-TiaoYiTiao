@@ -1,0 +1,7 @@
+D:\Workspace\TThack\PictureProcess\PictureProcess\bin\Debug\PictureProcess.exe.config
+D:\Workspace\TThack\PictureProcess\PictureProcess\bin\Debug\PictureProcess.exe
+D:\Workspace\TThack\PictureProcess\PictureProcess\bin\Debug\PictureProcess.pdb
+D:\Workspace\TThack\PictureProcess\PictureProcess\obj\Debug\PictureProcess.csprojResolveAssemblyReference.cache
+D:\Workspace\TThack\PictureProcess\PictureProcess\obj\Debug\PictureProcess.csproj.CoreCompileInputs.cache
+D:\Workspace\TThack\PictureProcess\PictureProcess\obj\Debug\PictureProcess.exe
+D:\Workspace\TThack\PictureProcess\PictureProcess\obj\Debug\PictureProcess.pdb
